@@ -12,7 +12,7 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseURL = "https://radiant-zabaione-920917.netlify.app"
+baseURL = "https://example.org/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Hugo tranquilpeak theme"
@@ -384,4 +384,3 @@ canonifyurls = true
   # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
   #  [params.footer]
   #    copyright = "<a href=\"https://github.com/kakawait\">kakawait</a>"
-theme = "hugo-tranquilpeak-theme"
