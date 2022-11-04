@@ -9,6 +9,16 @@ editor:
   preview: false
 locale: 'fr'
 
+# Allow local visit
+# You need to run at the root of the project `npx netlify-cms-proxy-server`
+local_backend: true
+
+# i18n https://www.netlifycms.org/docs/beta-features/#i18n-support
+i18n:
+  structure: multiple_folders
+  locales: [ en, fr ]
+  default_locale: en
+
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
