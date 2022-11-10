@@ -26,4 +26,4 @@ And here is the image gallery!
 
 <!--more-->
 
-[![](/media/haeundae-petit-train.jpg)](2015/05/elements-showcase/)
+[![](/media/haeundae-petit-train.jpg)](Elements-showcase.md)
