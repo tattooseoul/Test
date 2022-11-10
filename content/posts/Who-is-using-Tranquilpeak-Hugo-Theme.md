@@ -19,11 +19,6 @@ If you want to add your site to this showcase, click [here](https://github.com/k
 - name (optional)
 - description (optional)
 
-
-## Eric Bouchut's blog
-
-[![Eric Bouchut's blog](http://i.imgur.com/zQmKIKNm.png)](http://ericbouchut.com/)
-
 ## Robin Hu's blog
 
 [![Robin Hu's blog](https://i.imgur.com/7SujaMam.png)](http://robinforest.net/)

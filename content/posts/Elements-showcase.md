@@ -1,14 +1,16 @@
 ---
-title: "Elements showcase"
 date: 2015-05-28
-categories:
-- tranquilpeak
-- features
-tags:
-- html elements
-- markdown
-thumbnailImagePosition: left
+thumbnail: /media/haeundae-petit-train.jpg
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/elements-showcase/vintage-140.jpg
+thumbnailImagePosition: left
+title: Elements showcase
+tags:
+  - html elements
+  - markdown
+categories:
+  - tranquilpeak
+  - features
+rating: 3
 ---
 
 Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It's simple and elegant.
