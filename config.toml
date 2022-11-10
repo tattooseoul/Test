@@ -30,9 +30,6 @@ canonifyurls = true
   category = "categories"
   archive = "archives"
 
-[params]
-  swapPaginator = true
-
 # ------
 # Markup
 # ------
