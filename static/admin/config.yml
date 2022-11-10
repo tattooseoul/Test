@@ -5,6 +5,7 @@ backend:
 publish_mode: editorial_workflow
 media_folder: "/static/media" # Folder where user uploaded files should go
 public_folder: "/media"
+site_url: https://monumental-platypus-f4904d.netlify.app
 editor:
   preview: true
 locale: 'fr'
