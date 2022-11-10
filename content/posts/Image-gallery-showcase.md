@@ -1,7 +1,7 @@
 ---
 date: 2013-02-18
 thumbnail: /media/haeundae-petit-train.jpg
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/image-gallery-showcase/city-140.jpg
+thumbnailImage: /media/haeundae-petit-train.jpg
 gallery:
   - //d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-31.jpg
     //d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-31.jpg "Mercedes"
