@@ -33,6 +33,14 @@
     
                 </div> 
             </section>
+
+            <section class="postShorten-group main-content-wrap">
+              {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" site.Params.mainSections ) }}
+              {{ range $paginator.Pages }}
+                {{ .Render "summary" }}
+              {{ end }}
+              {{ partial "pagination.html" . }}
+            </section>
         {{ partial "footer.html" . }}
       </div>
     </div>
